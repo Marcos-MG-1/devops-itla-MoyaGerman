@@ -1,2 +1,22 @@
 # devops-itla-MoyaGerman
-Laboratorio 0 - Git y GitHub
+
+# 
+
+# Laboratorio 0 - Git y GitHub
+
+# 
+
+# Datos del estudiante
+
+# 
+
+# Nombre: Marcos
+
+# 
+
+# Matrícula: 2025-1147
+
+# 
+
+# Sección: Lunes a las 6:00 p. m.
+
